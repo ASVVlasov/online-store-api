@@ -5,8 +5,38 @@
     "price": 45600
   },
   {
-    "id_product": 456,
+    "id_product": 234,
     "product_name": "Мышка",
     "price": 1000
+  },
+  {
+    "id_product": 345,
+    "product_name": "Клавиатура",
+    "price": 2000
+  },
+  {
+    "id_product": 456,
+    "product_name": "Монитор",
+    "price": 5000
+  },
+  {
+    "id_product": 567,
+    "product_name": "Принтер",
+    "price": 3000
+  },
+  {
+    "id_product": 678,
+    "product_name": "Коврик для мышки",
+    "price": 300
+  },
+  {
+    "id_product": 789,
+    "product_name": "Системный блок",
+    "price": 30000
+  },
+  {
+    "id_product": 890,
+    "product_name": "Процессор",
+    "price": 23500
   }
 ]
